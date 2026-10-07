@@ -21,9 +21,17 @@ The notebook starts a local SGLang server, accepts ordered image/video/audio ref
 
 ## Notebook
 
+### View the code on GitHub
+
 Open:
 
-`MiniMaxH3_using_SGLang.ipynb`
+[`MiniMaxH3_using_SGLang.ipynb`](./MiniMaxH3_using_SGLang.ipynb)
+
+The repository notebook is committed **without saved execution outputs**, so GitHub can render the code reliably instead of embedding large Colab upload widgets/logs.
+
+### Open directly in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VivekRahal/minimax-h3-sglang/blob/main/MiniMaxH3_using_SGLang.ipynb)
 
 Run the notebook from top to bottom in **Google Colab with a CUDA GPU**.
 
